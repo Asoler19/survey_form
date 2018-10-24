@@ -43,10 +43,10 @@ input{
    color:    #212121;
 }
 
-span ::after{
+span.deep-orange-text.text-accent-4::after{
   color : #dd2c00;
 }
 
-span ::before{
+span.deep-orange-text.text-accent-4::before{
   #dd2c00
 }
