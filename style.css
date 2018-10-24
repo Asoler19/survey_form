@@ -18,7 +18,9 @@ body {
 }
 
 input{
-  text-align:center
+  text-align:center;
 }
 
-
+#name, #email, #age {
+  color: #212121; 
+}
