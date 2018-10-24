@@ -21,6 +21,7 @@ input{
   text-align:center;
 }
 
-#name, #email, #age {
-  color: #212121; 
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #212121 ;
+   
 }
