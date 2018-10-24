@@ -42,3 +42,11 @@ input{
 ::placeholder { /* Most modern browsers support this now. */
    color:    #212121;
 }
+
+span ::after{
+  color : #dd2c00;
+}
+
+span ::before{
+  #dd2c00
+}
